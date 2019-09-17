@@ -55,8 +55,8 @@ spotify.search({
 //     function(response) {
 //         console.log("* Title of the movie. " + response.data.Title +
 //         "\n* Year the movie came out. " + response.data.Year +
-//         "\n* IMDB Rating of the movie. " + response.data.Ratings +
-//         "\n* Rotten Tomatoes Rating of the movie. " + response.data.WORDS +
+//         "\n* IMDB Rating of the movie. " + response.data.imdbRating +
+//         "\n* Rotten Tomatoes Rating of the movie. " + response.data.rtRating +
 //         "\n* Country where the moview was produced. " + response.data.Country +
 //         "\n* Language of the movie. " + response.data.Language +
 //         "\n* Plot of the movie. " + response.data.Plot +
