@@ -29,3 +29,5 @@ technologies used in this app are as follows:
 4. DotEnv
 
 This app was developed, tested, and polished by Connor Stark
+
+Video of app being used: https://youtu.be/w_ESDp3XcMk
